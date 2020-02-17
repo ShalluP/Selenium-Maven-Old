@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium Maven" duration-ms="7745" started-at="2019-08-29T19:35:31 CEST" finished-at="2019-08-29T19:35:39 CEST">
+    <groups>
+    </groups>
+    <test name="Selenium maven" duration-ms="7745" started-at="2019-08-29T19:35:31 CEST" finished-at="2019-08-29T19:35:39 CEST">
+      <class name="TestingMaven.AnnotationsDemo">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestingMaven.AnnotationsDemo@23e028a9]" name="beforeSuite" is-config="true" duration-ms="6226" started-at="2019-08-29T19:35:25 CEST" finished-at="2019-08-29T19:35:31 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestingMaven.AnnotationsDemo@23e028a9]" name="beforeTest" is-config="true" duration-ms="5396" started-at="2019-08-29T19:35:31 CEST" finished-at="2019-08-29T19:35:36 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:TestingMaven.AnnotationsDemo@23e028a9]" name="f" duration-ms="2307" started-at="2019-08-29T19:35:36 CEST" finished-at="2019-08-29T19:35:39 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestingMaven.AnnotationsDemo@23e028a9]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-08-29T19:35:39 CEST" finished-at="2019-08-29T19:35:39 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestingMaven.AnnotationsDemo@23e028a9]" name="afterSuite" is-config="true" duration-ms="2090" started-at="2019-08-29T19:35:39 CEST" finished-at="2019-08-29T19:35:41 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestingMaven.AnnotationsDemo -->
+    </test> <!-- Selenium maven -->
+  </suite> <!-- Selenium Maven -->
+</testng-results>

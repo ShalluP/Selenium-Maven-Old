@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium Maven">
+  <test thread-count="5" name="Selenium maven">
+    <classes>
+      <class name="TestingMaven.AnnotationsDemo"/>
+    </classes>
+  </test> <!-- Selenium maven -->
+</suite> <!-- Selenium Maven -->

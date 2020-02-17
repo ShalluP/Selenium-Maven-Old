@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Selenium Maven]">
+  <test thread-count="5" verbose="0" name="Selenium maven(failed)">
+    <classes>
+      <class name="TestingMaven.AnnotationsDemo">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="beforeTest"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- TestingMaven.AnnotationsDemo -->
+    </classes>
+  </test> <!-- Selenium maven(failed) -->
+</suite> <!-- Failed suite [Selenium Maven] -->
